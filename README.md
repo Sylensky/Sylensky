@@ -9,5 +9,5 @@
 
 <div align="center">
 
-<img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sylensky"/>
+<img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sylensky&v=2"/>
 </div>
