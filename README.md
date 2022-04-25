@@ -11,3 +11,8 @@
 
 <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sylensky&v=2"/>
 </div>
+
+
+<div align="center">
+viewed by <img src="https://visitor-badge.laobi.icu/badge?page_id=Sylensky.Sylensky" align="center" height="20" width="" />
+</div>
