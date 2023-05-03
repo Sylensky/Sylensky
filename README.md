@@ -12,8 +12,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2022 - To: 03 May 2023
-
 Total Time: 258 hrs 46 mins
 
 C++                        128 hrs 23 mins ############-------------   49.62 %
