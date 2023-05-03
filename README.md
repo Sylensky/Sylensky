@@ -9,7 +9,8 @@
 
 <div align="center">
 
-<img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sylensky&v=2&range=all_time"/>
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 </div>
 
 <div align="center">
