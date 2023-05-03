@@ -3,8 +3,8 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 24 hours
-    - cron: "0 */24 * * *"
+    # Runs every sunday
+    - cron: "0 12 * * 0"
 
 jobs:
   update-readme:
@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Updated readme graph with new metrics
-          SHOW_TITLE: true
+          SHOW_TITLE: false
           BLOCKS: -#
           TIME_RANGE: last_year
           SHOW_TIME: true
