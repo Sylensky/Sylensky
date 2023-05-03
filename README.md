@@ -10,6 +10,13 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```text
+C++   11 hrs 15 mins  ███████████████████████░░   92.45 %
+C     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+INI   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
