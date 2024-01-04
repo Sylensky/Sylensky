@@ -31,7 +31,7 @@ ActionScript       7 hrs 52 mins   -------------------------   00.88 %
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sylensky/Sylensky/animation/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/Sylensky/Sylensky/animation/github-contribution-grid-blue-snake-dark.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/Sylensky/Sylensky/animation/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </div>
 
