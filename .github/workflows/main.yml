@@ -23,7 +23,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-red-snake-dark.svg?palette=github-dark&color_snake=blue
+            dist/github-contribution-grid-blue-snake-dark.svg?palette=github-dark&color_snake=blue
       # push the content of <build_dir> to a branch
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
